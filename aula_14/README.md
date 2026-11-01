@@ -20,6 +20,8 @@ A API permite consultar frutas, cadastrar sucos com suas respectivas frutas e in
 
 # Funcionalidades
 
-Consultar informações nutricionais de uma fruta.
+- Consultar informações nutricionais de uma fruta.
 
-Retornar mensagens de erro para frutas não encontradas.
+- Retornar mensagens de erro para frutas não encontradas.
+
+- Atualizar as frutas de um suco cadastrado e recalcular seus valores nutricionais
